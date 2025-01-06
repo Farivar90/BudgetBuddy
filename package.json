@@ -22,7 +22,7 @@
     "url": "https://github.com/harivmasoor/BudgetBuddy/issues"
   },
   "engines": {
-    "node": "16.x"
+    "node": ">=18.x"
   },
   "homepage": "https://github.com/harivmasoor/BudgetBuddy#readme"
 }
